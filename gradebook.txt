@@ -1,0 +1,10 @@
+Alice Johnson:95.0,87.0,92.0,88.0
+Benjamin Lee:76.0,82.0,79.0,85.0
+Catherine Smith:90.0,91.0,89.0,94.0
+Daniel Kim:65.0,70.0,72.0,68.0
+Ella Martinez:88.0,85.0,92.0,90.0
+Frank Thomas:73.0,78.0,80.0,75.0
+Grace Chen:98.0,97.0,99.0,100.0
+Henry Davis:81.0,83.0,79.0,77.0
+Isabella Moore:92.0,88.0,94.0,90.0
+Jack Wilson:67.0,72.0,70.0,69.0
